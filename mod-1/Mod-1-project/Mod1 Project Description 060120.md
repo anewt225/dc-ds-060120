@@ -6,6 +6,7 @@ In this lesson, we'll review all of the guidelines and specifications for the fi
 
 ## Objectives
 
+
 You will be able to:
 
 * Describe all required aspects of the final project for Module 1
